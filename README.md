@@ -1,1 +1,3 @@
 # git_test
+wowowowo my first github thing :O
+Hello Odin!
